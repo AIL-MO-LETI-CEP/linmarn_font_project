@@ -1,7 +1,7 @@
 @font-face {
     font-family: "linzklar_rounded";
-    src: url("./linzklar_rounded.ttf?8a70c4af85a6694229110fa69fcb581c") format("truetype"),
-url("./linzklar_rounded.woff?8a70c4af85a6694229110fa69fcb581c") format("woff");
+    src: url("./linzklar_rounded.ttf?32702442f685d678c7190dc06ce44fac") format("truetype"),
+url("./linzklar_rounded.woff?32702442f685d678c7190dc06ce44fac") format("woff");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
@@ -350,6 +350,9 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-賢:before {
     content: "\8ce2";
+}
+.icon-・:before {
+    content: "\30fb";
 }
 .icon-出:before {
     content: "\51fa";
@@ -1868,4 +1871,16 @@ i[class^="icon-"]:before, i[class*=" icon-"]:before {
 }
 .icon-g:before {
     content: "\67";
+}
+.icon-ぽ:before {
+    content: "\307d";
+}
+.icon-皿:before {
+    content: "\76bf";
+}
+.icon-芋:before {
+    content: "\828b";
+}
+.icon-壺:before {
+    content: "\58fa";
 }
